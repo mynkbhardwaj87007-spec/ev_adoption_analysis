@@ -17,13 +17,13 @@ The analysis answers real stakeholder questions:
 - 🌬️ **Renewable growth is a Midwest wind story** — Kansas, Iowa & Oklahoma jumped to 35%+ renewable share since 1990, none of which rank in the top 8 for EV adoption.
 - 🏛️ **Policy beats infrastructure** — top EV-adoption states share ZEV mandates and purchase incentives (CA + 9-state coalition), not clean electricity grids.
 - 🔋 **National renewable share nearly doubled** — 9% (1990) → 17% (2018), with the steepest growth after 2015.
----
+
 ## 📊 Dashboard Preview
 ### Page 1 — Overview
-![Page 1](dashboard1.png)
+![Page 1](Dashboard1.png)
 ### Page 2 — Ranking
-![Page 2](dashboard2.png)
----
+![Page 1](Dashboard2.png)
+
 ## 🛠️ Tools & Technologies
 | Tool | Usage |
 |------|-------|
