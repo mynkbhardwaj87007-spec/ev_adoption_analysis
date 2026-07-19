@@ -1,13 +1,8 @@
-⚡ EV Adoption & Renewable Energy — A State-Level Analysis
+#⚡ EV Adoption & Renewable Energy — A State-Level Analysis
 
 Does a cleaner electricity grid actually predict higher EV adoption?
 I tested this assumption statistically across all 50 US states + DC — and the answer surprised me.
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 
 
 🔑 TL;DR
@@ -152,9 +147,11 @@ Filter by individual state
 Explore the renewable share vs. EV adoption scatter plot
 View EV adoption and renewable share rankings side by side
 
+page 1:
+![Dashboard Preview](dashboard1.png)
 
-(Screenshot/link here once uploaded)
-
+page 2:
+![Dashboard Preview](dashboard2.png)
 
 ⚠️ Limitations
 
